@@ -1,0 +1,12 @@
+{
+  "name": "fm1100-parser",
+  "version": "1.0.0",
+  "description": "Parser for teltonika fm1100",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "PORT=9000 node index.js"
+  },
+  "author": "Alex Duka",
+  "license": "MIT"
+}
